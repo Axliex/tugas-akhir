@@ -1,0 +1,9 @@
+{
+    "certainty_levels": [
+      { "id": "C1", "description": "Tidak", "certainty_factor": 0.0 },
+      { "id": "C2", "description": "Mungkin", "certainty_factor": 0.25 },
+      { "id": "C3", "description": "Kemungkinan besar", "certainty_factor": 0.50 },
+      { "id": "C4", "description": "Yakin", "certainty_factor": 0.75 },
+      { "id": "C5", "description": "Sangat yakin", "certainty_factor": 1.0 }
+    ]
+}
