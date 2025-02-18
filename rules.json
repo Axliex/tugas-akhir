@@ -1,0 +1,49 @@
+{
+    "rules": [
+      {
+        "id": "R1",
+        "conditions": [
+          { "fact": "F3" },
+          { "fact": "F5" }
+        ],
+        "result": "Program Latihan HIIT",
+        "certainty_factor": 0.85
+      },
+      {
+        "id": "R2",
+        "conditions": [
+          { "fact": "F4" }
+        ],
+        "result": "Program Latihan Lansia",
+        "certainty_factor": 0.9
+      },
+      {
+        "id": "R3",
+        "conditions": [
+          { "fact": "F2" },
+          { "fact": "F6" }
+        ],
+        "result": "Program Penurunan Berat Badan",
+        "certainty_factor": 0.87
+      },
+      {
+        "id": "R4",
+        "conditions": [
+          { "fact": "F1" },
+          { "fact": "F5" }
+        ],
+        "result": "Program Muscle Maintenance",
+        "certainty_factor": 0.88
+      },
+      {
+        "id": "R5",
+        "conditions": [
+          { "fact": "F9" },
+          { "fact": "F8" }
+        ],
+        "result": "Program Rehabilitasi Struktur Tubuh",
+        "certainty_factor": 0.92
+      }
+    ]
+  }
+  

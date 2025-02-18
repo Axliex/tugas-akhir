@@ -1,0 +1,14 @@
+{
+    "facts": [
+      { "id": "F1", "description": "Berat badan ideal" },
+      { "id": "F2", "description": "Berat badan berlebih (BMI >= 25)" },
+      { "id": "F3", "description": "Usia di bawah 30 tahun" },
+      { "id": "F4", "description": "Usia di atas 50 tahun" },
+      { "id": "F5", "description": "Sering melakukan aktivitas olahraga" },
+      { "id": "F6", "description": "Jarang melakukan aktivitas olahraga" },
+      { "id": "F7", "description": "Memiliki riwayat penyakit jantung" },
+      { "id": "F8", "description": "Tidak memiliki riwayat penyakit jantung" },
+      { "id": "F9", "description": "Memiliki penyakit tulang belakang" },
+      { "id": "F10", "description": "Tidak memiliki penyakit tulang belakang" }
+    ]
+}
