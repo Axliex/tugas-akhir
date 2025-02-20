@@ -1,0 +1,10 @@
+{
+    "gejala":[
+    { "id": "G1", "description": "Apakah Anda sering berolahraga?" },
+    { "id": "G2", "description": "Apakah Anda memiliki riwayat penyakit jantung?" },
+    { "id": "G3", "description": "Apakah Anda memiliki riwayat penyakit tulang belakang?" },
+    { "id": "G4", "description": "Apakah Anda memiliki riwayat penyakit sendi" },
+    { "id": "G5", "description": "Apakah Anda memiliki riwayat penyakit osteogenesis " },
+    { "id": "G6", "description": "Apakah Anda memiliki riwayat patah tulang " }
+    ]
+}
