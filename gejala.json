@@ -1,5 +1,5 @@
 {
-    "gejala":[
+    "gejalas":[
     { "id": "G1", "description": "Apakah Anda sering berolahraga?" },
     { "id": "G2", "description": "Apakah Anda memiliki riwayat penyakit jantung?" },
     { "id": "G3", "description": "Apakah Anda memiliki riwayat penyakit tulang belakang?" },
